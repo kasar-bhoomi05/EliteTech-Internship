@@ -1,0 +1,5 @@
+"name","salary","next_salary"
+"Ali",45000,50000
+"Asha",50000,65000
+"Bhoomi",65000,70000
+"Raj",70000,NULL

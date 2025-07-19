@@ -1,0 +1,5 @@
+"name","salary","previous_salary"
+"Ali",45000,NULL
+"Asha",50000,45000
+"Bhoomi",65000,50000
+"Raj",70000,65000

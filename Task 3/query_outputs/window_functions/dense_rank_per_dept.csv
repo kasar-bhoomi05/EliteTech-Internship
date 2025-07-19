@@ -1,0 +1,5 @@
+"name","dept_name","salary","dense_rank_in_dept"
+"Raj","Engineering",70000,"1"
+"Bhoomi","Engineering",65000,"2"
+"Asha","HR",50000,"1"
+"Ali","Marketing",45000,"1"
